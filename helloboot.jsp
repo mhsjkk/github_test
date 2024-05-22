@@ -40,5 +40,7 @@ $(document).ready(function(){
 <input type=button id="ajaxbtn" value="ajax요청">
 <div id="result">ajax 결과 = <br></div>
 
+<h1> 02 </h>
+
 </body>
 </html>
